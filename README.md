@@ -96,6 +96,9 @@ Mean Squared Error: 1.5922265160523277
 
 R² Score: 0.9968548612028596
 
+
+
+
 <img width="881" height="713" alt="image" src="https://github.com/user-attachments/assets/a2a4ee0b-783b-4db7-b948-b732ef992031" />
 
 
