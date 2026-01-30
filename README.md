@@ -99,7 +99,10 @@ R² Score: 0.9968548612028596
 
 
 
-<img width="881" height="713" alt="image" src="https://github.com/user-attachments/assets/a2a4ee0b-783b-4db7-b948-b732ef992031" />
+<img width="881" height="713" alt="image" src="https://github.com/user-attachments/assets/edd9e6cf-c7ca-415f-93a7-06735bbf65cd" />
+<img width="1041" height="64" alt="image" src="https://github.com/user-attachments/assets/2872deb7-a3bc-45ee-afb5-d9a4e60645ed" />
+
+
 
 
 ## Result:
